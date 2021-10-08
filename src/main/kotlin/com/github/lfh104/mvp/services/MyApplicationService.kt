@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lfh104.mvp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lfh104.mvp.MyBundle
 
 class MyApplicationService {
 
